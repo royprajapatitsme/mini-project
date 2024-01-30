@@ -58,7 +58,7 @@ while 1:
     
     
 
-    turn = "X " if turn == "0 " else "0 "
+turn = "X " if turn == "0 " else "0 "
 
 
     
